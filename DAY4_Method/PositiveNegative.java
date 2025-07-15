@@ -1,4 +1,4 @@
-package Day_4_Methods;
+package Day4_Methods;
 
 import java.util.*;
 public class PositiveNegative {

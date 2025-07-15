@@ -1,5 +1,5 @@
+package DAY3_ARRAYS;
 import java.util.Scanner;
-
 public class Frequencyofdigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

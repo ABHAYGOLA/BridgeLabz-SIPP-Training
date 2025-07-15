@@ -1,3 +1,4 @@
+package DAY3_ARRAYS;
 import java.util.Scanner;
 
 public class MeanHeight {

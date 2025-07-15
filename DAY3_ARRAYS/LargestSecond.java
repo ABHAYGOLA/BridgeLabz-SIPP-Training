@@ -1,3 +1,4 @@
+ package DAY3_ARRAYS;
  class LargestSecond {
     public static void main(String[] args) {
         int[] arr = {12,15,9,14,10,1,25,17};
