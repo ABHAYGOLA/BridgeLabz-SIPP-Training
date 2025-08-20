@@ -1,5 +1,3 @@
-package Day_5_Encapsulation_Polymorphism_Abstract.E_CommercePlatform;
-
 public class Clothing extends Product implements Taxable {
     public Clothing(int productId, String name, double price) {
         super(productId, name, price);

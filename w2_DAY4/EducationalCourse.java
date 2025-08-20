@@ -1,4 +1,4 @@
-package Day_4_Inheritense;
+package w2_DAY4;
 
 class Course{
     String courseName;

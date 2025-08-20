@@ -1,4 +1,4 @@
-package Day_5_Encapsulation_Polymorphism_Abstract.EmployeeManagementSystem;
+package w2_DAY5.EmployeeManagementSystem;
 
 public interface Department {
     void assignDepartment(String dept);

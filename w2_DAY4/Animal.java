@@ -1,4 +1,4 @@
-package Day_4_Inheritense;
+package w2_DAY4;
 
 class Animal {
     String name;
@@ -8,7 +8,6 @@ class Animal {
         this.name = name;
         this.age = age;
     }
-
     void makeSound(){
         System.out.println("Animals makes a sound");
     }

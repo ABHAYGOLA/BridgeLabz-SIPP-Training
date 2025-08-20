@@ -1,4 +1,4 @@
-package Day_5_Encapsulation_Polymorphism_Abstract.E_CommercePlatform;
+package w2_DAY5.E_CommercePlatform;
 
 import java.util.*;
 

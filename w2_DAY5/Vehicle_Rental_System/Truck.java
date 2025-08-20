@@ -1,4 +1,4 @@
-package Day_5_Encapsulation_Polymorphism_Abstract.Vehicle_Rental_System;
+package w2_DAY5.Vehicle_Rental_System;
 
 public class Truck extends Vehicle implements Insurable {
     public Truck(String vehicleNumber, double rentalRate, String insurancePolicyNumber) {

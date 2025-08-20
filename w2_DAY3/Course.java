@@ -1,4 +1,4 @@
-package Day_3_Object_Oriented_Design_principle;
+package w2_DAY3;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package Day_5_Encapsulation_Polymorphism_Abstract.E_CommercePlatform;
+package w2_DAY5.E_CommercePlatform;
 
 public class Electronics extends Product implements Taxable {
     public Electronics(int productId, String name, double price) {
